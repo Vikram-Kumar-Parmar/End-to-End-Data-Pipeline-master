@@ -14,14 +14,8 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_GITHUB_PROJECT_LINK">
-    <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?style=social" />
-  </a>
-  <a href="YOUR_GITHUB_PROJECT_LINK/issues">
-    <img src="https://img.shields.io/github/issues/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME" />
-  </a>
   <a href="YOUR_GITHUB_PROJECT_LINK/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME" />
+    <img src="https://img.shields.io/github/license/Vikram-Kumar-Parmar/End-to-End-Data-Pipeline-master" />
   </a>
 </p>
 
